@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 333.51 43.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea5658;
+      }
+
+      .cls-2 {
+        fill: #e8e6e6;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: Poppins-Medium, Poppins;
+        font-size: 12px;
+        font-weight: 500;
+      }
+
+      .cls-6, .cls-4 {
+        fill: #16263f;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="0" y="9.23" width="123.56" height="33.96" rx="16.98" ry="16.98"/>
+  <text class="cls-5" transform="translate(33.07 30.83)"><tspan x="0" y="0">Charging</tspan></text>
+  <rect class="cls-1" x="132.83" y="9.23" width="78.68" height="33.96" rx="16.98" ry="16.98"/>
+  <text class="cls-5" transform="translate(160.52 30.83)"><tspan x="0" y="0">Wifi</tspan></text>
+  <rect class="cls-2" x="224.97" y="9.23" width="108.54" height="33.96" rx="16.98" ry="16.98"/>
+  <text class="cls-6" transform="translate(245.68 30.93)"><tspan x="0" y="0">Quiet place</tspan></text>
+  <circle class="cls-4" cx="116.68" cy="13.33" r="11.83"/>
+  <circle class="cls-4" cx="210.34" cy="13.33" r="11.83"/>
+  <line class="cls-3" x1="114.43" y1="10.69" x2="119.38" y2="16.5"/>
+  <line class="cls-3" x1="119.84" y1="10.6" x2="114.6" y2="16.6"/>
+  <line class="cls-3" x1="208.08" y1="10.69" x2="213.04" y2="16.5"/>
+  <line class="cls-3" x1="213.49" y1="10.6" x2="208.25" y2="16.6"/>
+</svg>

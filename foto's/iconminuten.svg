@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108.79 44.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+        font-family: Poppins-Medium, Poppins;
+        font-size: 12px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #eaeaea;
+        stroke: #415a6c;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="1.5" y="1.5" width="105.79" height="41.9" rx="7.02" ry="7.02"/>
+  <text class="cls-1" transform="translate(33.43 25.88)"><tspan x="0" y="0">20 min</tspan></text>
+</svg>

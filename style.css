@@ -1,0 +1,306 @@
+@font-face {
+    font-family: 'baskervilleBT';
+    src: url(./assets/BaskervilleBT.ttf)
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url(./assets/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url(./assets/HelveticaNeue.otf);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 50px;
+    color: #16263f;
+    margin-bottom: 0;
+    margin-right: 0.5em;
+}
+
+section h2 {
+    font-family: 'Poppins-Regular';
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 0;
+}
+
+h2 {
+    font-family: 'Poppins-Regular';
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: white;
+    opacity: 0;
+}
+
+figcaption {
+    font-family: 'Poppins-Regular';
+    font-size: 18px;
+}
+
+header nav {
+    width: 100%;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    padding: 0;
+    justify-content: space-between;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+header nav ul li {
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 20px;
+    margin-top: 1em;
+}
+
+header nav img {
+    width: 20px;
+}
+
+.logo {
+    width: 6.5em;
+}
+
+main section {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5em;
+}
+
+main section img {
+    width: 8em;
+    height: auto;
+    border-radius: 9px;
+    margin-left: -10px;
+    opacity: 100%;
+    margin-top: 0.2em;
+}
+
+main section p {
+    font-family: 'Poppins-Regular';
+    font-size: 13px;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-right: 2em;
+}
+
+main article img {
+    width: 100%;
+    margin-top: 2.5em;
+    margin-left: 0;
+}
+
+.homebutton {
+    display: flex;
+    margin-top: -22em;
+    margin-left: 12em;
+    opacity: 100%;
+    width: 40%;
+    padding: 0;
+}
+
+main figure img {
+    width: 100%;
+    height: 200px;
+    border-radius: 4px;
+    margin-top: 1em;
+    margin-left: 0;
+}
+
+nav a {
+    margin-bottom: 0;
+}
+
+
+main a {
+    font-family: 'Poppins-Regular';
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 3em;
+}
+
+figure {
+    background-color: #16263f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0;
+}
+
+main a figure figcaption {
+    margin-top: 1em;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main a figure figcaption img {
+    width: 30%;
+    margin-top: -75px;
+    margin-bottom: -60px;
+}
+
+main img {
+    display: flex;
+    justify-content: center;
+
+    width: 60%;
+    margin-left: 3em;
+}
+
+main ul {
+    list-style: none;
+    margin-top: auto;
+}
+
+main ul li {
+    margin-left: -60px;
+    margin-top: 1em;
+    width: 100%;
+}
+
+main ul li img {
+    width: 60%;
+}
+
+header img {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+figure figcaption img {
+    width: 30%;
+    margin-top: -3.5em;
+}
+
+article figure {
+    /* display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto; */
+    width: 90%;
+    height: 200px;
+    background-color: #ffffff;
+    padding: 0;
+}
+
+article figcaption img {
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 1.5em;
+}
+
+iframe {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+section ul li img {
+    border-radius: 100%;
+    border-width: 0.4em;
+    width: 8em;
+    height: 8em;
+    margin: 1.25em;
+}
+
+section ul img {
+    float: left;
+    margin-left: -2em;
+}
+
+section ul li p {
+    color: #16263f;
+}
+
+aside {
+    margin-top: -1em;
+    margin-left: 0em;
+    margin-right: 5em;
+    background-color: rgb(199, 217, 217);
+    height: 667px;
+}
+
+.invitebutton {
+    width: 40%;
+    margin-left: 12em;
+    margin-bottom: 1em;
+    margin-top: -6em;
+}
+
+article a figure img {
+    margin-left: 1.2em;
+    width: 100%;
+}
+
+figcaption {
+    color: #ffffff;
+    margin-top: 1em;
+}
+
+main figure figcaption a img:first-child {
+    width: 50%;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+main figure figcaption a img {
+    width: 100%;
+    margin-top: 1em;
+}
+
+figcaption p {
+    font-size: 13px;
+}
+
+ul {
+    font-family: 'HelveticaNeue';
+    margin-left: 0;
+    margin-top: 3em;
+}
+
+ul li {
+    margin-top: 3em;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #16263f;
+}

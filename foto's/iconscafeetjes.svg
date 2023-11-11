@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.63 80.43">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #16263f;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-5 {
+        fill: #e8e6e6;
+      }
+
+      .cls-6 {
+        fill: #daebe8;
+      }
+
+      .cls-7 {
+        fill: #16263f;
+      }
+
+      .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        stroke: #daebe8;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: #e8e6e6;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-6" cx="39.06" cy="39.06" r="39.06"/>
+  <circle class="cls-6" cx="127.16" cy="41" r="39.06"/>
+  <circle class="cls-3" cx="220.88" cy="41.68" r="37.75"/>
+  <path class="cls-1" d="m23.83,45.4s15.42-19.8,30.45,0"/>
+  <path class="cls-1" d="m15.46,36.6s24.43-31.36,48.23,0"/>
+  <path class="cls-7" d="m39.1,62.44l9.74-8.39c-1.88-3.48-5.55-5.62-9.47-5.55-3.78.07-7.25,2.2-9.07,5.55l8.8,8.39Z"/>
+  <path class="cls-7" d="m140.41,34h-26.51c-1.44,0-2.59,1.17-2.59,2.59v23.14c0,1.43,1.15,2.59,2.59,2.59h26.51c1.44,0,2.59-1.17,2.59-2.59v-23.14c0-1.43-1.15-2.59-2.59-2.59Zm-13.26,17.16c-1.64,0-2.99-1.34-2.99-2.99s1.34-3,2.99-3,3,1.34,3,3-1.34,2.99-3,2.99Z"/>
+  <rect class="cls-7" x="118.31" y="19.68" width="3.95" height="10.84"/>
+  <rect class="cls-7" x="131.89" y="19.68" width="3.95" height="10.84"/>
+  <rect class="cls-2" x="116.35" y="30.52" width="21.62" height="3.48"/>
+  <rect class="cls-5" x="191.51" y="33.78" width="16.19" height="16.19"/>
+  <polygon class="cls-5" points="220.88 19.82 207.71 33.78 207.71 49.97 220.88 62.68 220.88 19.82"/>
+  <line class="cls-4" x1="228.53" y1="31.94" x2="246.99" y2="52.2"/>
+  <line class="cls-4" x1="246.99" y1="31.55" x2="228.53" y2="51.81"/>
+</svg>

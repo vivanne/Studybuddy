@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166.22 80.06">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #16263f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #daebe8;
+      }
+
+      .cls-4 {
+        fill: #16263f;
+      }
+
+      .cls-2 {
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-3" cx="39.06" cy="39.06" r="39.06"/>
+  <circle class="cls-3" cx="127.16" cy="41" r="39.06"/>
+  <path class="cls-1" d="m23.83,45.4s15.42-19.8,30.45,0"/>
+  <path class="cls-1" d="m15.46,36.6s24.43-31.36,48.23,0"/>
+  <path class="cls-4" d="m39.1,62.44l9.74-8.39c-1.88-3.48-5.55-5.62-9.47-5.55-3.78.07-7.25,2.2-9.07,5.55l8.8,8.39Z"/>
+  <path class="cls-4" d="m140.41,34h-26.51c-1.44,0-2.59,1.17-2.59,2.59v23.14c0,1.43,1.15,2.59,2.59,2.59h26.51c1.44,0,2.59-1.17,2.59-2.59v-23.14c0-1.43-1.15-2.59-2.59-2.59Zm-13.26,17.16c-1.64,0-2.99-1.34-2.99-2.99s1.34-3,2.99-3,3,1.34,3,3-1.34,2.99-3,2.99Z"/>
+  <rect class="cls-4" x="118.31" y="19.68" width="3.95" height="10.84"/>
+  <rect class="cls-4" x="131.89" y="19.68" width="3.95" height="10.84"/>
+  <rect class="cls-2" x="116.35" y="30.52" width="21.62" height="3.48"/>
+</svg>

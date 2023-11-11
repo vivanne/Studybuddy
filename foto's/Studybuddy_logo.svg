@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.77 102.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #222d39;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #222d39;
+        font-family: Poppins-Regular, Poppins;
+        font-size: 71.95px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 61.09)"><tspan x="0" y="0" xml:space="preserve">Studybu    y.</tspan></text>
+  <path class="cls-1" d="m296.21,84.35c0-12.85,9.87-23.27,22.05-23.27s22.05,10.42,22.05,23.27"/>
+  <path class="cls-1" d="m339.85,61.09s22.5.4,23.72,23.27"/>
+  <path class="cls-1" d="m313.54,60.84c1,.16,2.03.24,3.09.24,10.73,0,19.41-8.83,19.41-19.71s-8.68-19.71-19.41-19.71c-1.06,0-2.09.09-3.09.24"/>
+  <path class="cls-1" d="m337.83,60.84c1,.16,2.03.24,3.09.24,10.73,0,19.41-8.83,19.41-19.71s-8.68-19.71-19.41-19.71c-1.06,0-2.09.09-3.09.24"/>
+</svg>
